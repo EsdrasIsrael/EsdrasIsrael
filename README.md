@@ -6,8 +6,8 @@
 ##
 <div>
   <a href="http:/beacons.ai/EsdrasIsrael">
-  <img height="190em" src="https://github-readme-stats.vercel.app/api?username=EsdrasIsrael&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EsdrasIsrael&theme=dracula&hide=python,c,php&layout=compact">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EsdrasIsrael&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EsdrasIsrael&theme=dracula&hide=python,c,php&layout=compact">
 </div>
   
 ##
