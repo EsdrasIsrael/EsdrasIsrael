@@ -1,7 +1,7 @@
 ## ⭐⭐ Olá! Eu sou o Esdras Israel⭐⭐
 - ⚛️ Atualmente estou iniciando os estudos na biblioteca React;
 - 📚 Aperfeiçoando meus conhecimentos em HTML, CSS e JavaScript;
-- 👨‍🎓 6º período do curso de Tecnologia da Informação na UFRN;
+- 👨‍🎓 8º período do curso de Tecnologia da Informação na UFRN;
 - 💻 Estagiando na empresa Dataprev.
 ##
 <div>
